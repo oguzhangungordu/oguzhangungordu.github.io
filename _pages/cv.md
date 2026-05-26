@@ -14,5 +14,3 @@ An up-to-date CV is available below.
     <i class="fas fa-file-pdf"></i> Open CV (PDF)
   </a>
 </p>
-
-<object data="{{ base_path }}/files/CV_Oguzhan.pdf" type="application/pdf" width="100%" height="900px"></object>
