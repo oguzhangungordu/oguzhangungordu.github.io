@@ -9,7 +9,7 @@ redirect_from:
 
 I am Oguzhan Gungordu, a 2nd-year PhD student in Machine Learning at the Georgia Institute of Technology, advised by [Prof. Faramarz Fekri](https://fekri.ece.gatech.edu/). Previously, I completed a B.Sc. in Electrical and Electronics Engineering and a B.Sc. in Physics at Koc University.
 
-My research focuses on the design of LLM-based agents and the frameworks and training schemes that drive their reasoning and search. I am particularly interested in how models can plan, self-improve, and perform evidence-based reasoning through state-aware memory and retrieval-augmented generation (**LLM Reasoning**); and how LLM-driven evolutionary frameworks can solve complex optimization and scientific problems (**LLMs for Optimization and Discovery**).
+My research focuses on the LLM-based agentic frameworks and training schemes that drive reasoning and search. I am particularly interested in how models can plan, self-improve, and perform evidence-based reasoning through state-aware memory and retrieval-augmented generation (**LLM Reasoning**); and how LLM-driven evolutionary frameworks can solve complex optimization and scientific problems (**LLMs for Optimization and Discovery**).
 
 ## Education
 
