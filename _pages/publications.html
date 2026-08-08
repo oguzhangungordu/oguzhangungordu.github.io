@@ -73,9 +73,9 @@ author_profile: true
           {% unless cat_key == "preprints" %}
             <div class="pub-venue">In <em>{{ post.venue }}</em> ({{ post.date | date: "%Y" }})</div>
           {% endunless %}
-          {% if post.paperurl or post.codeurl %}
+          {% if post.paperurl or post.codeurl or post.paper %}
             <div class="pub-badges">
-              {% if post.paperurl %}<a class="pub-badge" href="{{ post.paperurl }}" target="_blank" rel="noopener">paper</a>{% endif %}
+              {% if post.paperurl %}<a class="pub-badge" href="{{ post.paperurl }}" target="_blank" rel="noopener">paper</a>{% elsif post.paper %}<span class="pub-badge">paper</span>{% endif %}
               {% if post.codeurl %}<a class="pub-badge" href="{{ post.codeurl }}" target="_blank" rel="noopener">code</a>{% endif %}
             </div>
           {% endif %}
