@@ -71,7 +71,7 @@ author_profile: true
           <div class="pub-title">{{ post.title }}</div>
           <div class="pub-authors">{{ post.authors }}</div>
           {% unless cat_key == "preprints" %}
-            <div class="pub-venue">In <em>{{ post.venue }}</em> ({{ post.date | date: "%Y" }})</div>
+            <div class="pub-venue">In <em>{{ post.venue }}</em></div>
           {% endunless %}
           {% if post.paperurl or post.codeurl or post.paper %}
             <div class="pub-badges">
