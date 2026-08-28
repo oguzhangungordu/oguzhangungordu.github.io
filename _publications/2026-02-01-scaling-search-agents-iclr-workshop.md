@@ -1,5 +1,5 @@
 ---
-title: "Scaling Search-Augmented Reasoning Agents via Adaptive Information Control"
+title: "Scaling Search-Augmented LLM Reasoning via Adaptive Information Control"
 collection: publications
 category: workshops
 permalink: /publication/2026-scaling-search-agents
@@ -7,6 +7,6 @@ date: 2026-02-01
 image: "scaling_deepcontrol.png"
 authors: "S. Xiong, <u>O. Gungordu</u>, B. Johnson, J. C. Kerce, and F. Fekri"
 venue: "Workshop on Scaling Post-training for LLMs (SPOT), ICLR&nbsp;2026"
-paperurl: "https://arxiv.org/abs/2602.01672"
+paperurl: "https://arxiv.org/abs/2602.01672v1"
 codeurl: "https://github.com/xiongsiheng/DeepControl"
 ---
