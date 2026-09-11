@@ -38,7 +38,7 @@ My research focuses on LLM agents that can reason and improve from experience. I
   </div>
   <div>
     <strong>Koç University</strong><br>
-    B.Sc. in Electrical and Electronics Engineering, 2023, Major GPA: 3.99 / 4.00<br>
-    B.Sc. in Physics, 2023, Major GPA: 4.00 / 4.00
+    B.Sc. in Electrical and Electronics Engineering, 2023, GPA: 3.99 / 4.00<br>
+    B.Sc. in Physics, 2023, GPA: 4.00 / 4.00
   </div>
 </div>
