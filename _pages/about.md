@@ -11,11 +11,13 @@ I am Oguzhan Gungordu, a 3rd-year PhD student in Machine Learning at the [Georgi
 
 My research focuses on LLM agents that can reason and improve from experience. I am particularly interested in:
 
+<div style="margin-left: 1.5em;" markdown="1">
 **(i) LLM-Driven Algorithm and Scientific Discovery**: how LLM-driven evolutionary methods can discover heuristics and algorithms for complex optimization and scientific problems.
 
 **(ii) Self-Improving LLM Agents**: how agentic systems can evolve their skills through experience-driven self-improvement.
 
 **(iii) LLM Reasoning**: how models can plan, use tools, and perform evidence-based reasoning with retrieval-augmented generation.
+</div>
 
 ## Education
 
