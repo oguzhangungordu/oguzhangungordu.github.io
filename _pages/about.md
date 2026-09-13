@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Oguzhan Gungordu, a 3rd-year PhD student in Machine Learning in the School of Electrical and Computer Engineering (ECE) at the [Georgia Institute of Technology](https://www.gatech.edu/), advised by [Prof. Faramarz Fekri](https://fekri.ece.gatech.edu/). Previously, I completed a B.Sc. in Electrical and Electronics Engineering and a B.Sc. in Physics at [Koç University](https://www.ku.edu.tr/en/).
+I am Oguzhan Gungordu, a 3rd-year PhD student in [Machine Learning](https://ml.gatech.edu/) in the [School of Electrical and Computer Engineering (ECE)](https://ece.gatech.edu/) at the [Georgia Institute of Technology](https://www.gatech.edu/), advised by [Prof. Faramarz Fekri](https://fekri.ece.gatech.edu/). Previously, I completed a B.Sc. in Electrical and Electronics Engineering and a B.Sc. in Physics at [Koç University](https://www.ku.edu.tr/en/).
 
 My research focuses on LLM agents that can reason and improve from experience. I am particularly interested in:
 
