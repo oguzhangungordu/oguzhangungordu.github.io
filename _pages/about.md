@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Oguzhan Gungordu, a 3rd-year PhD student in Machine Learning at the [Georgia Institute of Technology](https://www.gatech.edu/), advised by [Prof. Faramarz Fekri](https://fekri.ece.gatech.edu/). Previously, I completed a B.Sc. in Electrical and Electronics Engineering and a B.Sc. in Physics at [Koç University](https://www.ku.edu.tr/en/).
+I am Oguzhan Gungordu, a 3rd-year PhD student in Machine Learning in the School of Electrical and Computer Engineering (ECE) at the [Georgia Institute of Technology](https://www.gatech.edu/), advised by [Prof. Faramarz Fekri](https://fekri.ece.gatech.edu/). Previously, I completed a B.Sc. in Electrical and Electronics Engineering and a B.Sc. in Physics at [Koç University](https://www.ku.edu.tr/en/).
 
 My research focuses on LLM agents that can reason and improve from experience. I am particularly interested in:
 
@@ -28,6 +28,7 @@ My research focuses on LLM agents that can reason and improve from experience. I
   <div>
     <strong>Georgia Institute of Technology</strong><br>
     Ph.D. in Machine Learning, 2024 - Present<br>
+    <span style="display: inline-block; margin-left: 1.5em; font-size: 0.85em; color: #6f777d;">Department: Electrical and Computer Engineering</span><br>
     GPA: 4.00 / 4.00
   </div>
 </div>
